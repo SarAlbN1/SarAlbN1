@@ -51,8 +51,6 @@
 ---
 
 ## 📊 GitHub Stats  
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarAlbN1&show_icons=true&theme=transparent)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarAlbN1&layout=compact&theme=transparent)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarAlbN1&theme=transparent)](https://git.io/streak-stats)  
 
