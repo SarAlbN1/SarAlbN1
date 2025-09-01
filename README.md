@@ -17,7 +17,7 @@
 
 - **Bases de datos:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
-- **DevOps / Cloud:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
+- **DevOps / Cloud:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 
 - **Otros:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Office 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoftoffice&logoColor=white) Rclone, PlantUML  
 
