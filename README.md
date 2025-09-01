@@ -27,66 +27,12 @@
 
 🔹 **[Scripts IT]()** – Scripts en PowerShell y Python para automatización en servidores, backups y auditorías.  
 
-🔹 **[EduVerse](https://github.com/SarAlbN1/eduverse-innovacion)** – Proyecto de gestión e innovación TI.  
-
 🔹 **[Gestión de Aulas Distribuidas](https://github.com/SarAlbN1/gestion-aulas-distribuidas)** – Proyecto final de sistemas distribuidos con Java.  
-
-🎓 **Gestión de Aulas Distribuidas - Pontificia Universidad Javeriana**  
-Este proyecto implementa un sistema distribuido para la asignación de aulas (salones y laboratorios) entre programas académicos de distintas facultades universitarias.  
-Es parte del curso **Introducción a los Sistemas Distribuidos**, y está desarrollado por **Sara Albarracín**.  
-
-📂 **Estructura del Proyecto**  
-```
-GestionAulas-SisteDistri/
-├── src/                    # Código fuente organizado por paquetes
-│   ├── modelo/             # Clases de dominio: Solicitud, Aula, Constantes
-│   ├── programas/          # Programas académicos (generan solicitudes)
-│   ├── facultades/         # Facultades (intermediarios)
-│   ├── servidor/           # Lógica de asignación y concurrencia
-│   └── tolerancia/         # HealthChecker y Servidor réplica
-├── target/                 # Archivos .class generados por Maven
-├── run/                    # Scripts de ejecución por módulo
-├── data/                   # Logs, asignaciones y solicitudes
-├── pom.xml                 # Archivo de configuración de Maven
-└── README.md               # Documentación del proyecto
-```
-
-📦 **Dependencias**  
-- Gson 2.10.1 – Serialización/deserialización de objetos en JSON  
-- JeroMQ 0.5.2 – Comunicación entre procesos con ZeroMQ  
-
-🛠️ **Compilación con Maven**  
-```bash
-mvn clean compile
-```
-
-🚀 **Ejecución por módulo**  
-```bash
-# Iniciar el servidor principal
-./run/run_servidor.sh
-
-# Iniciar una facultad
-./run/run_facultad.sh <ipServidor>
-
-# Iniciar un programa académico
-./run/run_programa.sh <nombre> <semestre> <salones> <laboratorios> <ipFacultad>
-
-# Iniciar el servidor réplica (backup)
-./run/run_backup.sh
-
-# Iniciar el verificador de salud (tolerancia a fallos)
-./run/health_check.sh
-```
-
-📁 **Carpetas de Datos**  
-- `data/asignaciones/` → Asignaciones exitosas  
-- `data/logs/` → Logs de errores, rechazos o alertas  
-- `data/solicitudes/` → Historial de solicitudes  
-
-👩‍💻 **Desarrollado por**  
-Sara Albarracín – Pontificia Universidad Javeriana  
-
----
+   - 🎓 Desarrollado como parte del curso **Introducción a los Sistemas Distribuidos** en la Pontificia Universidad Javeriana.  
+   - 🏫 Sistema distribuido para asignación de aulas (salones y laboratorios) entre programas académicos.  
+   - ⚙️ Implementación con **Java, Maven, Gson y JeroMQ (ZeroMQ)** para concurrencia y comunicación entre procesos.  
+   - 💾 Manejo de logs, solicitudes y asignaciones en archivos estructurados.  
+   - 👩‍💻 Desarrollado por **Sara Albarracín**.  
 
 🔹 **[CampusGo](https://github.com/ICM2025/CampusGo)** – Aplicación móvil para compra y venta de materiales académicos en campus universitarios.  
    - 👥 Conexión entre estudiantes para economía colaborativa.  
