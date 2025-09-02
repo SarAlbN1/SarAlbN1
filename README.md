@@ -10,34 +10,71 @@
 
 ## 🛠️ Tecnologías y Herramientas  
 💡 Algunas tecnologías con las que trabajo:  
-- **Lenguajes:**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
+## 🛠️ Tecnologías y Herramientas  
 
-- **Frameworks / Librerías:**  
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)  
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) 
-  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+<div align="left">
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+</div>
 
-- **Bases de datos:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+###
 
-- **DevOps / Cloud:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+<div align="left">
+  <!-- Frameworks / Librerías -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+</div>
 
-- **Otros:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-  ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoftoffice&logoColor=white)  
-  Rclone · PlantUML  
+###
+
+<div align="left">
+  <!-- Bases de datos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+</div>
+
+###
+
+<div align="left">
+  <!-- DevOps / Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+###
+
+<div align="left">
+  <!-- Otros -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="40" alt="microsoft logo" />
+  <img width="12" />
+  Rclone · PlantUML
+</div>
+
 
 
 ## 📌 Proyectos destacados  
