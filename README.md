@@ -8,8 +8,7 @@
 
 ---
 ## 🛠️ Tecnologías y Herramientas  
-💡 Algunas tecnologías con las que trabajo:  
-
+<h2💡 Algunas tecnologías con las que trabajo:  </h2>
 
 ### 🌐 Lenguajes  
 <div align="left">
