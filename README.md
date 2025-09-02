@@ -54,9 +54,8 @@
 
 <h3>🔧 Otros</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin-right:15px;" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoftoffice&logoColor=white" height="30" alt="microsoft 365 logo" />
-  <span>Rclone · PlantUML</span>
 </div>
 
 
