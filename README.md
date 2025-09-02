@@ -16,7 +16,7 @@
 <p>💡 Algunas tecnologías con las que he trabajado:</p>
 
 <h3>🌐 Lenguajes</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
@@ -30,7 +30,7 @@
 </div>
 
 <h3>⚛️ Frameworks / Librerías</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
@@ -39,7 +39,7 @@
 </div>
 
 <h3>🗄️ Bases de datos</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
@@ -47,7 +47,7 @@
 </div>
 
 <h3>☁️ DevOps / Cloud</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
@@ -56,7 +56,7 @@
 </div>
 
 <h3>💻 IDEs y Editores</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio" />
@@ -64,7 +64,7 @@
 </div>
 
 <h3>🔧 Herramientas</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
@@ -76,7 +76,7 @@
 </div>
 
 <h3>📱 Plataformas</h3>
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
