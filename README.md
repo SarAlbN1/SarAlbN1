@@ -10,8 +10,9 @@
 
 ## 🛠️ Tecnologías y Herramientas  
 💡 Algunas tecnologías con las que trabajo:  
-<!-- Lenguajes -->
-<div>
+
+### 🌐 Lenguajes  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -23,8 +24,8 @@
 
 ---
 
-<!-- Frameworks / Librerías -->
-<div>
+### ⚛️ Frameworks / Librerías  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
@@ -35,24 +36,24 @@
 
 ---
 
-<!-- Bases de datos -->
-<div>
+### 🗄️ Bases de datos  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ---
 
-<!-- DevOps / Cloud -->
-<div>
+### ☁️ DevOps / Cloud  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
 ---
 
-<!-- Otros -->
-<div>
+### 🔧 Otros  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="40" alt="microsoft logo" />
   <span>Rclone · PlantUML</span>
