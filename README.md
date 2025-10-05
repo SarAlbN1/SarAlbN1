@@ -6,13 +6,11 @@
 - 🌱 Interesada en **arquitectura de software, desarrollo móvil, cloud y automatización**  
 - ⚡ Me gusta aprender constantemente y aplicar metodologías como **SCRUM, ITIL y Lean Startup** en proyectos reales.  
 
----
-
 ## 🛠️ Tecnologías y Herramientas  
 💡 Algunas tecnologías con las que he trabajado:  
 
 ### 🌐 Lenguajes  
-<div align="left" style="display:flex; flex-wrap:wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
@@ -28,7 +26,7 @@
 ---
 
 ### ⚛️ Frameworks / Librerías  
-<div align="left" style="display:flex; flex-wrap:wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
@@ -39,7 +37,7 @@
 ---
 
 ### 🗄️ Bases de datos  
-<div align="left" style="display:flex; flex-wrap:wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
@@ -49,7 +47,7 @@
 ---
 
 ### ☁️ DevOps / Cloud  
-<div align="left" style="display:flex; flex-wrap:wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
@@ -61,7 +59,7 @@
 ---
 
 ### 🔧 Herramientas  
-<div align="left" style="display:flex; flex-wrap:wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell" />
