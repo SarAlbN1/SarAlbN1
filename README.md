@@ -9,26 +9,32 @@
 ## 🛠️ Tecnologías y Herramientas  
 💡 Algunas tecnologías con las que he trabajado:  
 
-## 🛠️ Tecnologías y Herramientas  
-
-💡 Tecnologías con las que he trabajado:
+---
 
 ### 🌐 Lenguajes  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,html,css,kotlin)](https://skillicons.dev)
 
+---
+
 ### ⚛️ Frameworks / Librerías  
 [![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,spring,firebase)](https://skillicons.dev)
+
+---
 
 ### 🗄️ Bases de datos  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle)](https://skillicons.dev)
 
+---
+
 ### ☁️ DevOps / Cloud  
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,apache,jenkins,linux)](https://skillicons.dev)
+
+---
 
 ### 🔧 Herramientas  
 [![My Skills](https://skillicons.dev/icons?i=git,postman,powershell,bash,ssh,canva,github)](https://skillicons.dev)
 
----
+
 
 ## 📌 Proyectos destacados  
 
